@@ -4,7 +4,10 @@ An 8-minute narrated video tour of the British Museum in London, written for a g
 students. It visits nine famous objects and galleries, with on-screen captions, fact cards, a floor plan showing the
 route, and questions to discuss at the end.
 
-**Watch:** [`output/british_museum_tour.mp4`](output/british_museum_tour.mp4) (1920×1080, 30 fps, H.264/AAC, 7:58)
+**Watch:** [`output/british_museum_tour.mp4`](output/british_museum_tour.mp4) (1920×1080, 30 fps, H.264/AAC, 7:58, 49 MB)
+
+> GitHub can't play video files in the browser. Open the file above and click the **download** button
+> (the arrow at the top right of the file view), then play it in any video player, PowerPoint or a browser tab.
 
 Also included:
 
@@ -19,11 +22,11 @@ Also included:
 | 0:00 | Welcome | Great Russell Street | Smirke's Greek Revival front; founding in 1753 from Sir Hans Sloane's collection |
 | 0:42 | 1 | Great Court | The 3,312-pane glass roof (2000) and the round Reading Room (1857) |
 | 1:25 | 2 | Room 4 | The Rosetta Stone: three scripts, and how Champollion read the name *Ptolemy* |
-| 2:25 | 3 | Room 10 | The lamassu of Sargon II, and why they have five legs; the lion hunt reliefs in Room 10a |
+| 2:24 | 3 | Room 10 | The lamassu of Sargon II, and why they have five legs; the lion hunt reliefs in Room 10a |
 | 3:04 | 4 | Room 18 | The Parthenon sculptures and the continuing debate about where they belong |
-| 3:48 | 5 | Room 24 | Hoa Hakananai‘a from Rapa Nui (Easter Island), front and back |
+| 3:47 | 5 | Room 24 | Hoa Hakananai‘a from Rapa Nui (Easter Island), front and back |
 | 4:28 | 6 | Room 56 | The Royal Game of Ur and the clay tablet that explains the rules |
-| 5:13 | 7 | Rooms 62–63 | Egyptian mummies: how a mummy was made, painted coffins and animal mummies |
+| 5:12 | 7 | Rooms 62–63 | Egyptian mummies: how a mummy was made, painted coffins and animal mummies |
 | 5:54 | 8 | Room 41 | The Sutton Hoo ship burial and the helmet's hidden dragon |
 | 6:44 | 9 | Room 40 | The Lewis Chessmen: 82 in London, 11 in Edinburgh |
 | 7:25 | End | | A recap, "about 1% on display", and two questions to discuss |
